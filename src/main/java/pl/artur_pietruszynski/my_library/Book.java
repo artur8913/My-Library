@@ -7,4 +7,6 @@ public class Book {
     String authorLastname;
     String category;
     int pagesNbr;
+
+
 }
