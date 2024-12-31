@@ -1,4 +1,4 @@
-package org.example;
+package pl.artur_pietruszynski.my_library;
 
 public class Book {
 
